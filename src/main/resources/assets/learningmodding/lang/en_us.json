@@ -1,0 +1,13 @@
+{
+  "itemGroup.learningmodding": "Example Mod Tab",
+  "block.learningmodding.example_block": "Example Block",
+  "item.learningmodding.example_item": "Example Item",
+
+  "learningmodding.configuration.title": "Learning Modding Configs",
+  "learningmodding.configuration.section.learningmodding.common.toml": "Learning Modding Configs",
+  "learningmodding.configuration.section.learningmodding.common.toml.title": "Learning Modding Configs",
+  "learningmodding.configuration.items": "Item List",
+  "learningmodding.configuration.logDirtBlock": "Log Dirt Block",
+  "learningmodding.configuration.magicNumberIntroduction": "Magic Number Text",
+  "learningmodding.configuration.magicNumber": "Magic Number"
+}
